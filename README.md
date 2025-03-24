@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="phoenix.png" alt="The OG Flashswap Repo Banner" />
-</p>
-
 ![Status](https://img.shields.io/badge/status-archived-lightgrey)
 ![Legacy](https://img.shields.io/badge/flashswap--repo-OG-blueviolet)
 
